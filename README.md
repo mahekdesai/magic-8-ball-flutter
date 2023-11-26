@@ -34,4 +34,8 @@ This application is designed to work seamlessly on both Android and iOS platform
 
 I welcome contributions to enhance and improve the Magic8Ball Application. If you're interested in joining us on this magical journey and contributing to future releases, feel free to fork the repository and submit your pull requests.
 
+---
+
+**Note:** This application is designed for entertainment purposes only. It does not show actual future.
+
 May your future be filled with joy and enchantment! 🌟🔮
